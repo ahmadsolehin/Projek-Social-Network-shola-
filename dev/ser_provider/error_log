@@ -1,0 +1,138 @@
+[06-Mar-2017 10:24:37 Etc/GMT] PHP Fatal error:  Call to undefined function ph_fetch_all() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 27
+[06-Mar-2017 10:24:41 Etc/GMT] PHP Fatal error:  Call to undefined function ph_fetch_all() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 27
+[06-Mar-2017 10:24:56 Etc/GMT] PHP Fatal error:  Call to undefined function ph_fetch_all() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 27
+[06-Mar-2017 10:24:56 Etc/GMT] PHP Fatal error:  Call to undefined function ph_fetch_all() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 27
+[06-Mar-2017 10:24:57 Etc/GMT] PHP Fatal error:  Call to undefined function ph_fetch_all() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 27
+[06-Mar-2017 10:24:58 Etc/GMT] PHP Fatal error:  Call to undefined function ph_fetch_all() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 27
+[06-Mar-2017 10:24:58 Etc/GMT] PHP Fatal error:  Call to undefined function ph_fetch_all() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 27
+[06-Mar-2017 10:24:58 Etc/GMT] PHP Fatal error:  Call to undefined function ph_fetch_all() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 27
+[06-Mar-2017 10:26:43 Etc/GMT] PHP Fatal error:  Call to undefined function ph_fetch_all() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 30
+[06-Mar-2017 10:26:45 Etc/GMT] PHP Fatal error:  Call to undefined function ph_fetch_all() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 30
+[06-Mar-2017 10:26:45 Etc/GMT] PHP Fatal error:  Call to undefined function ph_fetch_all() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 30
+[06-Mar-2017 10:26:45 Etc/GMT] PHP Fatal error:  Call to undefined function ph_fetch_all() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 30
+[06-Mar-2017 10:26:45 Etc/GMT] PHP Fatal error:  Call to undefined function ph_fetch_all() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 30
+[06-Mar-2017 10:31:28 Etc/GMT] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[06-Mar-2017 10:31:32 Etc/GMT] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[06-Mar-2017 10:32:20 Etc/GMT] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[06-Mar-2017 10:33:42 Etc/GMT] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[06-Mar-2017 10:35:19 Etc/GMT] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[06-Mar-2017 10:37:50 Etc/GMT] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[06-Mar-2017 10:39:23 Etc/GMT] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[06-Mar-2017 10:52:21 Etc/GMT] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[06-Mar-2017 10:52:24 Etc/GMT] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[06-Mar-2017 10:53:33 Etc/GMT] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[06-Mar-2017 10:57:18 Etc/GMT] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[06-Mar-2017 10:59:27 Etc/GMT] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[06-Mar-2017 11:01:07 Etc/GMT] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[06-Mar-2017 11:02:14 Etc/GMT] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[06-Mar-2017 14:13:12 Etc/GMT] PHP Notice:  Undefined index: company_position in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 21
+[06-Mar-2017 14:13:12 Etc/GMT] PHP Notice:  Undefined variable: compnay_name in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 30
+[06-Mar-2017 17:38:24 Etc/GMT] PHP Notice:  Undefined index: edit_company_position in /home/grezzejn/public_html/test2/ser_provider/edit_experience.php on line 22
+[06-Mar-2017 17:39:08 Etc/GMT] PHP Notice:  Undefined index: edit_company_position in /home/grezzejn/public_html/test2/ser_provider/edit_experience.php on line 22
+[08-Mar-2017 14:41:09 Etc/GMT] PHP Notice:  Undefined index: id in /home/grezzejn/public_html/test2/ser_provider/delete_experience.php on line 24
+[08-Mar-2017 14:41:19 Etc/GMT] PHP Notice:  Undefined index: id in /home/grezzejn/public_html/test2/ser_provider/delete_experience.php on line 24
+[09-Mar-2017 04:20:36 Etc/GMT] PHP Notice:  Undefined index: edit_work_start_date in /home/grezzejn/public_html/test2/ser_provider/edit_project.php on line 24
+[09-Mar-2017 04:22:50 Etc/GMT] PHP Notice:  Undefined index: id in /home/grezzejn/public_html/test2/ser_provider/edit_project.php on line 20
+[09-Mar-2017 04:24:28 Etc/GMT] PHP Notice:  Undefined index: id in /home/grezzejn/public_html/test2/ser_provider/edit_project.php on line 20
+[09-Mar-2017 14:39:15 Etc/GMT] PHP Notice:  Undefined index: id_cert in /home/grezzejn/public_html/test2/ser_provider/edit_certificate.php on line 19
+[10-Mar-2017 08:37:11 Etc/GMT] PHP Notice:  Undefined index: edit_certificate_name in /home/grezzejn/public_html/test2/ser_provider/add_new_summary.php on line 21
+[10-Mar-2017 08:38:38 Etc/GMT] PHP Notice:  Undefined index: summary in /home/grezzejn/public_html/test2/ser_provider/add_new_summary.php on line 21
+[10-Mar-2017 08:40:15 Etc/GMT] PHP Notice:  Undefined index: summary in /home/grezzejn/public_html/test2/ser_provider/add_new_summary.php on line 21
+[10-Mar-2017 08:41:02 Etc/GMT] PHP Notice:  Undefined index: summary in /home/grezzejn/public_html/test2/ser_provider/add_new_summary.php on line 21
+[10-Mar-2017 10:29:01 Etc/GMT] PHP Notice:  Undefined index: summary in /home/grezzejn/public_html/test2/ser_provider/add_new_summary.php on line 21
+[10-Mar-2017 16:05:47 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/grezzejn/public_html/test2/ser_provider/get_language.php on line 18
+[10-Mar-2017 16:05:49 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/grezzejn/public_html/test2/ser_provider/get_language.php on line 18
+[10-Mar-2017 16:07:05 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/grezzejn/public_html/test2/ser_provider/get_language.php on line 18
+[10-Mar-2017 16:09:41 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/grezzejn/public_html/test2/ser_provider/get_language.php on line 18
+[10-Mar-2017 16:09:57 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/grezzejn/public_html/test2/ser_provider/get_language.php on line 18
+[10-Mar-2017 16:10:00 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/grezzejn/public_html/test2/ser_provider/get_language.php on line 18
+[10-Mar-2017 16:10:00 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/grezzejn/public_html/test2/ser_provider/get_language.php on line 18
+[10-Mar-2017 16:10:19 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/grezzejn/public_html/test2/ser_provider/get_language.php on line 18
+[10-Mar-2017 16:20:24 Etc/GMT] PHP Notice:  Undefined index: yuyu in /home/grezzejn/public_html/test2/ser_provider/add_new_language.php on line 19
+[10-Mar-2017 16:20:24 Etc/GMT] PHP Notice:  Undefined index: x in /home/grezzejn/public_html/test2/ser_provider/add_new_language.php on line 21
+[13-Mar-2017 08:03:26 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:03:27 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:05:36 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:12:27 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:13:21 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:14:50 Etc/GMT] PHP Fatal error:  Call to undefined function n2lbr() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:14:52 Etc/GMT] PHP Fatal error:  Call to undefined function n2lbr() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:14:52 Etc/GMT] PHP Fatal error:  Call to undefined function n2lbr() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:14:52 Etc/GMT] PHP Fatal error:  Call to undefined function n2lbr() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:15:04 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:15:05 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:15:05 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:15:07 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:15:07 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:15:08 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:15:45 Etc/GMT] PHP Fatal error:  Call to undefined function n2lbr() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:15:47 Etc/GMT] PHP Fatal error:  Call to undefined function n2lbr() in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:17:33 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:17:35 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:17:35 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:17:35 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 08:17:36 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 09:04:15 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 22
+[13-Mar-2017 09:43:26 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[13-Mar-2017 09:50:49 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[13-Mar-2017 09:51:27 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[13-Mar-2017 09:51:28 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[13-Mar-2017 09:51:30 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[13-Mar-2017 09:51:30 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[13-Mar-2017 09:51:30 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[13-Mar-2017 09:51:30 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[13-Mar-2017 09:51:31 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[13-Mar-2017 09:51:33 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[13-Mar-2017 09:51:33 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[13-Mar-2017 09:51:34 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[13-Mar-2017 09:51:49 Etc/GMT] PHP Notice:  Array to string conversion in /home/grezzejn/public_html/test2/ser_provider/get_job_description.php on line 21
+[27-Mar-2017 09:55:17 Etc/GMT] PHP Notice:  Undefined index: company_position in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 21
+[27-Mar-2017 09:55:17 Etc/GMT] PHP Notice:  Undefined index: work_details in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 22
+[27-Mar-2017 09:55:17 Etc/GMT] PHP Notice:  Undefined index: work_start_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 23
+[27-Mar-2017 09:55:17 Etc/GMT] PHP Notice:  Undefined index: work_end_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 24
+[27-Mar-2017 10:10:34 Etc/GMT] PHP Notice:  Undefined index: company_position in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 21
+[27-Mar-2017 10:10:34 Etc/GMT] PHP Notice:  Undefined index: work_details in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 22
+[27-Mar-2017 10:10:34 Etc/GMT] PHP Notice:  Undefined index: work_start_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 23
+[27-Mar-2017 10:10:34 Etc/GMT] PHP Notice:  Undefined index: work_end_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 24
+[31-Mar-2017 14:36:31 Etc/GMT] PHP Notice:  Undefined index: company_position in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 21
+[31-Mar-2017 14:36:31 Etc/GMT] PHP Notice:  Undefined index: work_details in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 22
+[31-Mar-2017 14:36:31 Etc/GMT] PHP Notice:  Undefined index: work_start_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 23
+[31-Mar-2017 14:36:31 Etc/GMT] PHP Notice:  Undefined index: work_end_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 24
+[01-Apr-2017 06:47:58 Etc/GMT] PHP Notice:  Undefined index: company_position in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 21
+[01-Apr-2017 06:47:58 Etc/GMT] PHP Notice:  Undefined index: work_details in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 22
+[01-Apr-2017 06:47:58 Etc/GMT] PHP Notice:  Undefined index: work_start_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 23
+[01-Apr-2017 06:47:58 Etc/GMT] PHP Notice:  Undefined index: work_end_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 24
+[03-Apr-2017 08:42:53 Etc/GMT] PHP Notice:  Undefined index: company_position in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 21
+[03-Apr-2017 08:42:53 Etc/GMT] PHP Notice:  Undefined index: work_details in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 22
+[03-Apr-2017 08:42:53 Etc/GMT] PHP Notice:  Undefined index: work_start_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 23
+[03-Apr-2017 08:42:53 Etc/GMT] PHP Notice:  Undefined index: work_end_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 24
+[03-Apr-2017 10:00:37 Etc/GMT] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/select_friend_based_skill.php on line 8
+[03-Apr-2017 10:00:44 Etc/GMT] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/select_friend_based_skill.php on line 8
+[03-Apr-2017 10:31:38 Etc/GMT] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/select_friend_based_skill.php on line 8
+[03-Apr-2017 10:31:46 Etc/GMT] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/select_friend_based_skill.php on line 8
+[03-Apr-2017 10:31:52 Etc/GMT] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/select_friend_based_skill.php on line 8
+[03-Apr-2017 10:57:22 Etc/GMT] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/select_friend_based_skill.php on line 8
+[03-Apr-2017 10:57:23 Etc/GMT] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/select_friend_based_skill.php on line 8
+[03-Apr-2017 10:57:39 Etc/GMT] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/select_friend_based_skill.php on line 8
+[03-Apr-2017 10:57:44 Etc/GMT] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/select_friend_based_skill.php on line 8
+[03-Apr-2017 10:58:20 Etc/GMT] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/select_friend_based_skill.php on line 8
+[03-Apr-2017 10:58:29 Etc/GMT] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/select_friend_based_skill.php on line 8
+[03-Apr-2017 10:58:35 Etc/GMT] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/select_friend_based_skill.php on line 8
+[03-Apr-2017 10:59:33 Etc/GMT] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/select_friend_based_skill.php on line 8
+[03-Apr-2017 10:59:42 Etc/GMT] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/grezzejn/public_html/test2/ser_provider/select_friend_based_skill.php on line 8
+[06-Apr-2017 06:18:13 Etc/GMT] PHP Notice:  Undefined index: company_position in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 21
+[06-Apr-2017 06:18:13 Etc/GMT] PHP Notice:  Undefined index: work_details in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 22
+[06-Apr-2017 06:18:13 Etc/GMT] PHP Notice:  Undefined index: work_start_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 23
+[06-Apr-2017 06:18:13 Etc/GMT] PHP Notice:  Undefined index: work_end_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 24
+[06-Apr-2017 07:19:02 Etc/GMT] PHP Notice:  Undefined index: company_position in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 21
+[06-Apr-2017 07:19:02 Etc/GMT] PHP Notice:  Undefined index: work_details in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 22
+[06-Apr-2017 07:19:02 Etc/GMT] PHP Notice:  Undefined index: work_start_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 23
+[06-Apr-2017 07:19:02 Etc/GMT] PHP Notice:  Undefined index: work_end_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 24
+[06-Apr-2017 07:20:14 Etc/GMT] PHP Notice:  Undefined index: company_position in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 21
+[06-Apr-2017 07:20:14 Etc/GMT] PHP Notice:  Undefined index: work_details in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 22
+[06-Apr-2017 07:20:14 Etc/GMT] PHP Notice:  Undefined index: work_start_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 23
+[06-Apr-2017 07:20:14 Etc/GMT] PHP Notice:  Undefined index: work_end_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 24
+[06-Apr-2017 08:32:19 Etc/GMT] PHP Notice:  Undefined index: company_position in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 21
+[06-Apr-2017 08:32:19 Etc/GMT] PHP Notice:  Undefined index: work_details in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 22
+[06-Apr-2017 08:32:19 Etc/GMT] PHP Notice:  Undefined index: work_start_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 23
+[06-Apr-2017 08:32:19 Etc/GMT] PHP Notice:  Undefined index: work_end_date in /home/grezzejn/public_html/test2/ser_provider/add_new_experience.php on line 24

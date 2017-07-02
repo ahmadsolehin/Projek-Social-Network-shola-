@@ -71,7 +71,7 @@ while ($row = mysqli_fetch_array($kuali, MYSQLI_ASSOC)) {
 
 
 function getWallPost(){
-  $db_conx = mysqli_connect("localhost", "grezzejn", "kEb!wkP+wNs64x", "grezzejn_social_b");
+  $db_conx = mysqli_connect("localhost", "fuck", "rapedme", "ah ah ah");
 
   $user_id = $_SESSION['userid'];
   $wall_query = mysqli_query($db_conx, "SELECT p.*,u.first_name as username, pl.like_id from fb_post p left join users u on u.id = p.user_id left join fb_post_likes pl on pl.post_id = p.post_id and pl.user_id = '$user_id' group by p.post_id order by post_id desc");
@@ -87,7 +87,7 @@ function getWallPost(){
 }
 
 function getPostComments($post_id){
-  $db_conx = mysqli_connect("localhost", "grezzejn", "kEb!wkP+wNs64x", "grezzejn_social_b");
+  $db_conx = mysqli_connect("localhost", "fuck", "rapedme", "ah ah ah");
 
   $comment_query = mysqli_query($db_conx, "SELECT c.*,u.first_name as username from fb_comment c left join users u on u.id = c.user_id where c.post_id = '$post_id' order by c.comment_id desc");
   $commentInfo = array();
@@ -100,7 +100,7 @@ function getPostComments($post_id){
 
 function submitPostComment($Data){
 
-  $db_conx = mysqli_connect("localhost", "grezzejn", "kEb!wkP+wNs64x", "grezzejn_social_b");
+  $db_conx = mysqli_connect("localhost", "fuck", "rapedme", "ah ah ah");
 
   $user_id = $Data['userid'];
   $post_id = $Data['post_id'];
@@ -125,7 +125,7 @@ function submitPostComment($Data){
 
 function submitWallPostSaja($Data){
 
-  $db_conx = mysqli_connect("localhost", "grezzejn", "kEb!wkP+wNs64x", "grezzejn_social_b");
+  $db_conx = mysqli_connect("localhost", "fuck", "rapedme", "ah ah ah");
 
   $user_id = $Data['userid'];
   $content = $Data['post_feed'];
